@@ -1,0 +1,13 @@
+{
+  "name": "paulbadcock-satsub",
+  "version": "0.0.3",
+  "author": "Paul Badcock <paul@bad.co.ck>",
+  "summary": "This attaches a RHEL host to Satellite 6",
+  "license": "MIT",
+  "source": "https://github.com/paulbadcock/puppet-satsub",
+  "project_page": "https://github.com/paulbadcock/puppet-satsub",
+  "issues_url": "https://github.com/paulbadcock/puppet-satsub/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib"}
+  ]
+}
